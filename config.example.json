@@ -1,0 +1,5 @@
+{
+  "pattern_hash": "<sha256-hash-of-your-pattern>",
+  "pattern_length": 3,
+  "hotkey": "<ctrl>+<alt>+l"
+}
