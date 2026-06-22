@@ -30,3 +30,6 @@ desktop.ini
 
 # claude
 .claude/
+
+# docs (local planning notes)
+docs/
